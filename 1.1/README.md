@@ -18,7 +18,7 @@
 - 官方推荐
   react-native-cli
   create-react-native-app, CRNA, 2017-3-13
-  expo-cli
+  expo-cli, React Natice 0.57
 - 非常棒的开发体验，提供了一整套的工具集.
   - Expo Client, 有安装在手机上的调试APP
   - Expo cli 命令行工具， 热更新、打包、发布等，
@@ -40,7 +40,7 @@
 
 项目名称： 来七，英文名 just-eat, 高仿美团。
 
-## 6、关于我
+## 6、联系我
 
 - 曹宗飞(Felix Cao)
 - 服务QQ: 47572020（草上飞，备注RN课程）

@@ -1,7 +1,7 @@
-# Hello World
+# 基于 Expo 的 React Native 项目实战
 
 
-## 需要服务
+## 联系我
 
 - 曹宗飞(Felix Cao)
 - 服务QQ: 47572020（草上飞，备注RN课程）

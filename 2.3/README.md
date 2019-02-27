@@ -47,7 +47,18 @@ ssh-keygen -t rsa -C "czf2008700@163.com"
   git add .
   ```
 
-  
+- git commit -m 'init the repo'
+- git push <远程仓库名> 本地版本库分支：远程版本库分支
+  - 查看远程仓库 git remote
+  - 添加远程仓库 git remote add <远程仓库名称>
+
+
+
+### 3.4 git clone
+
+```
+git clone git@github.com:felix-cao/react-native-tutorial.git
+```
 
 
 
